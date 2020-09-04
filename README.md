@@ -15,27 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CODE TIME          (Last updated on Mon, Aug 31st 5:55pm)
+CODE TIME          (Last updated on Fri, Sep 4th 11:06pm)
 
-Today (Mon, Aug 31st)
+Today (Fri, Sep 4th)
 ----------------------------------------------------------------
-Code time today             :                            1.6 hrs
-Active code time today      :                            1.4 hrs
-90-day avg                  :                            1.3 hrs
+Code time today             :                            1.8 hrs
+Active code time today      :                            1.8 hrs
+90-day avg                  :                             20 min
 
-Yesterday (Sun, Aug 30th)
+Yesterday (Thu, Sep 3rd)
 -----------------------------------------------------------------
          Active code time :                                    4
-      Lines of code added :                                1,226
-    Lines of code deleted :                                1,454
-         Characters added :                                2,096
-       Characters deleted :                                1,982
-         Total keystrokes :                                4,484
-                      KPM :                                   18
+      Lines of code added :                                5,862
+    Lines of code deleted :                                6,170
+         Characters added :                                2,932
+       Characters deleted :                                1,006
+         Total keystrokes :                                8,094
+                      KPM :                                   37
       Hours coded at work :                                    0
  Hours coded outside work :                                    4
                Live share :                                0 min
-             Top language :                                  vue
+             Top language :                                blade
 
 Last week (Sun, Aug 23rd - Sat, Aug 29th)
 -----------------------------------------------------------------
@@ -49,7 +49,7 @@ Last week (Sun, Aug 23rd - Sat, Aug 29th)
       Hours coded at work :                                    1
  Hours coded outside work :                                    9
                Live share :                                0 min
-             Top language :                           javascript
+             Top language :                                  vue
 
   📂 Weekly top projects
   --------------------------------------------------------------
@@ -76,32 +76,32 @@ Last week (Sun, Aug 23rd - Sat, Aug 29th)
 
 90-day avg by day of week
 -----------------------------------------------------------------
-                      sun : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.5 hrs
-                      mon : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.3 hrs
-                      tue : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.7 hrs
-                      wed : ▮▮▮▮▮▮▮▮▮▮▮▮ 1.1 hrs
-                      thu : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 2.3 hrs
-                      fri : ▮▮▮ 21 min
-                      sat : ▮▮▮▮▮▮▮▮▮▮▮ 1.0 hrs
+                      sun : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.5 hrs
+                      mon : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.3 hrs
+                      tue : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 1.3 hrs
+                      wed : ▮▮▮▮▮▮▮▮▮▮▮ 58 min
+                      thu : ▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮▮ 2.1 hrs
+                      fri : ▮▮▮▮ 21 min
+                      sat : ▮▮▮▮▮▮▮▮▮▮▮▮ 1.0 hrs
 
-Last 90 days (Aug 17th, 2020 - Aug 30th, 2020)
+Last 90 days (Aug 17th, 2020 - Sep 3rd, 2020)
 -----------------------------------------------------------------
-         Active code time :                                   20
-      Lines of code added :                                2,463
-    Lines of code deleted :                                8,965
-         Characters added :                                4,883
-       Characters deleted :                                3,467
-         Total keystrokes :                                9,258
-                      KPM :                                    8
-      Hours coded at work :                                    1
- Hours coded outside work :                                   18
+         Active code time :                                   27
+      Lines of code added :                                8,728
+    Lines of code deleted :                               15,542
+         Characters added :                                9,820
+       Characters deleted :                                5,230
+         Total keystrokes :                               20,472
+                      KPM :                                   13
+      Hours coded at work :                                    5
+ Hours coded outside work :                                   22
                Live share :                                0 min
              Top language :                                  vue
 
-🐲 My weekly language rankings
+🐲  weekly language rankings
 -----------------------------------------------------------------
-               javascript : ▮▮▮▮▮▮▮ 31.8%
                       vue : ▮▮▮▮▮▮▮ 31.8%
+               javascript : ▮▮▮▮▮▮▮ 31.8%
                     blade : ▮▮▮ 13.6%
                    dotenv : ▮▮ 9.1%
                       php : ▮▮ 9.1%
@@ -114,8 +114,8 @@ Last 90 days (Aug 17th, 2020 - Aug 30th, 2020)
                       php : ▮▮ 7.5%
                      html : ▮▮ 7.5%
                 plaintext : ▮▮ 6.6%
-                   python : ▮▮ 6.2%
-                      vue : ▮▮ 4.1%
+                   python : ▮▮ 6.3%
+                      vue : ▮▮ 4.0%
           typescriptreact : ▮ 3.6%
                      json : ▮ 3.4%
                       css : ▮ 2.9%
@@ -128,6 +128,4 @@ Last 90 days (Aug 17th, 2020 - Aug 30th, 2020)
                       cpp : ▮ 1.4%
                     jsonc : ▮ 1.4%
                        go : ▮ 1.2%
-                    other : ▮▮▮ (430 totaling 12.7%)
-
-
+                    other : ▮▮▮ (433 totaling 12.7%)
