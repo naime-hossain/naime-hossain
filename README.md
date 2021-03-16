@@ -35,3 +35,5 @@ About me:
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@09f339fe-b596-490e-8763-8c0d80ae27e9/1b81b8e4-b4e7-4890-b537-ed198610a737.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09f339fe-b596-490e-8763-8c0d80ae27e9/053d0e31-692f-4d4e-802a-b8ddb7e8ee1d.png" /></a>
