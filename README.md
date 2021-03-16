@@ -34,4 +34,4 @@ About me:
 ![Views](https://komarev.com/ghpvc/?username=naime-hossain)
 
 
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09f339fe-b596-490e-8763-8c0d80ae27e9/1b81b8e4-b4e7-4890-b537-ed198610a737.png" /></a>
