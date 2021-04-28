@@ -22,6 +22,16 @@ About me:
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Facebook
 
+---
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=naime-hossain&column=7"/>
+  </a>
+</div>
+
+---
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naime-hossain&show_icons=true&locale=en" alt="naime-hossain" /></p>
