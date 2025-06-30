@@ -10,12 +10,12 @@
 ## Programming Languages
 
 ```
-Laravel,Vuejs,JavaScript,PHP,Angular & NodeJs
+Python,JavaScript,PHP,Angular,Laravel,Vuejs & NodeJs
 ```
 
 About me:
 
-- 🔭 I’m currently working on Laravel & Vuejs
+- 🔭 I’m currently working on python Laravel & Vuejs
 - 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on Laravel,Vuejs,JavaScript And PHP
 - 🤔 I’m looking for help with GraphQL
